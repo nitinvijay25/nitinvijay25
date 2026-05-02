@@ -1,4 +1,4 @@
-###👋 Hi there, I’m Nitin!
+### Hi there, I’m Nitin! 👋 
 
 🎓 I’m a Software Engineering student with a passion for turning raw data into meaningful insights and real-world solutions. 
 
