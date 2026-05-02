@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there, I’m Nitin!
 
-<!--
-**nitinvijay25/nitinvijay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Software Engineering student with a passion for turning raw data into meaningful insights and real-world solutions. 
 
-Here are some ideas to get you started:
+🚀 What I’m Currently Working On
+📊 Building data-driven projects using real-world datasets
+🔄 Learning and implementing ETL pipelines (data scraping → cleaning → analysis)
+📈 Creating interactive dashboards for business insights
+🤖 Exploring machine learning and predictive modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+Build impactful data projects that solve real problems
+Gain hands-on experience through co-op and internships
+Help businesses make better decisions using data
+
+🤝 Let’s Connect!
+I’m always open to connecting, collaborating, and learning from others in the data science and tech community.
+Feel free to reach out or explore my projects!
